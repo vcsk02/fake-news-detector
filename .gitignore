@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.npm/
+.cache/
+.vite/
+
+# Environment & Config
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Data & Models
+data/
+models/
+dashboard/out/
+*.csv
+*.joblib
+*.pkl
+*.onnx
+
+# Logs
+*.log
+logs/
+coverage/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
