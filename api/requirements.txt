@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+httpx
+beautifulsoup4
+newspaper3k
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
